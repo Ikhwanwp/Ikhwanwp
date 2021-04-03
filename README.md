@@ -8,6 +8,8 @@ I'm Ikhwan Wiratama from Indonesia, and i do content about design and developmen
 - Figma
 - Frammer
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhwanwp)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Social Media 
 - Instagram : https://www.instagram.com/wiratamap_/
 - Dribble   : https://dribbble.com/ikhwanwp
