@@ -8,11 +8,11 @@ I'm Ikhwan Wiratama from Indonesia, and i do content about design and developmen
 • Figma
 • Frammer
 
-## Examples of Work
-
 ## Social Media 
-Instagram : https://www.instagram.com/wiratamap_/
+Instagram : https://www.instagram.com/wiratamap_
 Dribble   : https://dribbble.com/ikhwanwp
+
+## Examples of Work
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikhwanwp)](https://github.com/anuraghazra/github-readme-stats)
