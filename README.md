@@ -17,6 +17,5 @@ I'm Ikhwan Wiratama from Indonesia, and i do content about design and developmen
 ![Yuk Muslim](https://user-images.githubusercontent.com/38366920/113473597-9e7d1400-9494-11eb-843f-9ed99e4741fa.png)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikhwanwp)](https://github.com/anuraghazra/github-readme-stats)
 
 
