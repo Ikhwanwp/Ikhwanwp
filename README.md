@@ -3,6 +3,7 @@ I'm Ikhwan Wiratama from Indonesia, and i do content about design and developmen
 
 ## Skill and Experience
 - HTML,CSS,JS
+- React
 - Adobe Illustrator & Adobe Photoshop
 - Figma
 
